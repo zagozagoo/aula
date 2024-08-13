@@ -1,0 +1,6 @@
+npm init
+npm i typescript @types/node   
+npm i typescript @types/node -D
+npx tsc --init
+npm i tsx -D
+npx tsx watch src/server.ts
